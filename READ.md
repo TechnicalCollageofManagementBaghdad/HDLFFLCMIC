@@ -5,7 +5,6 @@
 ---
 
 ## Logo
-(أضف صورة أو شعار للمشروع إن وجد)
 
 ---
 
@@ -105,4 +104,5 @@ Statistics and Machine Learning Toolbox
 ResNet-50
 
 VGG-16
+
 
